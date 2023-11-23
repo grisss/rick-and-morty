@@ -1,0 +1,27 @@
+.card{
+    width: 300px;
+    border-radius: 1rem;
+    padding: 0 1.5rem;
+    justify-content: center;
+    align-items: flex-end;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    text-align: center;
+    height: 350px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
+}
+h2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    white-space: nowrap; 
+    overflow: hidden;    
+}
+img{
+    max-width: 250px;
+    max-height: 250px; 
+    border-radius: 1rem;
+}
